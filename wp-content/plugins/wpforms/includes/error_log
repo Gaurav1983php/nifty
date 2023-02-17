@@ -1,0 +1,22 @@
+[17-Jan-2023 22:50:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPFORMS_PLUGIN_DIR" in /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-fields.php:27
+Stack trace:
+#0 /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-fields.php(16): WPForms_Fields->init()
+#1 /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-fields.php(122): WPForms_Fields->__construct()
+#2 {main}
+  thrown in /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-fields.php on line 27
+[24-Jan-2023 13:43:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPFORMS_PLUGIN_DIR" in /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-providers.php:28
+Stack trace:
+#0 /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-providers.php(17): WPForms_Providers->init()
+#1 /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-providers.php(66): WPForms_Providers->__construct()
+#2 {main}
+  thrown in /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-providers.php on line 28
+[25-Jan-2023 16:01:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_activation_hook() in /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-install.php:20
+Stack trace:
+#0 /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-install.php(179): WPForms_Install->__construct()
+#1 {main}
+  thrown in /home/marketau/public_html/wp-content/plugins/wpforms/includes/class-install.php on line 20
+[27-Jan-2023 08:41:42 UTC] PHP Warning:  Class "WPForms\Helpers\PluginSilentUpgraderSkin" not found in /home/marketau/public_html/wp-content/plugins/wpforms/includes/deprecated.php on line 12
+[27-Jan-2023 08:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpforms() in /home/marketau/public_html/wp-content/plugins/wpforms/includes/deprecated.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/marketau/public_html/wp-content/plugins/wpforms/includes/deprecated.php on line 21

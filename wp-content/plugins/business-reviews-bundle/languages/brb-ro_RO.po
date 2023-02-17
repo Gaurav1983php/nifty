@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "%s Rating"
+msgstr "Evaluare %s"
+
+msgid "See all reviews"
+msgstr "Vezi Toate Recenziile"
+
+msgid "Google User"
+msgstr "Google User"
+
+msgid "read more"
+msgstr "mai mult"
+
+msgid "Next Reviews"
+msgstr "Următoarele Recenzii"
+
+msgid "Write a review"
+msgstr "Scrie o Recenzie"
+
+msgid "Based on %s reviews"
+msgstr "Bazat pe %s de Recenzii"
+
+msgid "just left us a %s star review"
+msgstr "doar ce a scris o recenzie de %s stele"
+
+msgid "on"
+msgstr "pe"

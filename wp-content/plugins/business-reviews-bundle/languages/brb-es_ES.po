@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "%s Rating"
+msgstr "Valoración en %s"
+
+msgid "See all reviews"
+msgstr "Ver todos los comentarios"
+
+msgid "Google User"
+msgstr "Usuario de Google"
+
+msgid "read more"
+msgstr "leer más"
+
+msgid "Next Reviews"
+msgstr "Siguientes"
+
+msgid "Write a review"
+msgstr "Escribir un comentario"
+
+msgid "Based on %s reviews"
+msgstr "Basado en %s opiniones"
+
+msgid "just left us a %s star review"
+msgstr "nos valoró con %s estrellas"
+
+msgid "on"
+msgstr "en"

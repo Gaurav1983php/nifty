@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Reviews Bundle\n"
+"POT-Creation-Date: 2019-05-28 03:49+0200\n"
+"PO-Revision-Date: 2021-03-23 02:11+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: brb.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-admin-collection-columns.php:45
+msgid "Title"
+msgstr "Titel"
+
+#: includes/admin/class-admin-collection-columns.php:46
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/class-admin-collection-columns.php:47
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/admin/class-admin-collection-columns.php:48
+msgid "Rich Snippets"
+msgstr "Avancerade utdrag"
+
+#: includes/admin/class-admin-collection-columns.php:49
+msgid "Date"
+msgstr "Datum"
+
+#: includes/admin/class-admin-tophead.php:25
+msgid "img/logo.png"
+msgstr "img/logo.png"
+
+#. Plugin Name of the plugin/theme
+#: includes/class-collection-widget.php:18
+msgid "Business Reviews Bundle"
+msgstr "Business Reviews Bundle"
+
+#: includes/class-collection-widget.php:22
+msgid "Display Business Reviews"
+msgstr "Visa Business Reviews"
+
+#: includes/class-collection-widget.php:78
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/class-collection-widget.php:90
+msgid "Collection:"
+msgstr "Samling:"
+
+#: includes/class-post-types.php:17
+msgctxt "Post Type General Name"
+msgid "Collections"
+msgstr "Samlingar"
+
+#: includes/class-post-types.php:18
+msgctxt "Post Type Singular Name"
+msgid "Collection"
+msgstr "Samling"
+
+#: includes/class-post-types.php:19 includes/class-post-types.php:24
+msgid "Collections"
+msgstr "Samlingar"
+
+#: includes/class-post-types.php:20 includes/class-post-types.php:47
+msgid "Collection"
+msgstr "Samling"
+
+#: includes/class-post-types.php:21
+msgid "Collection Archives"
+msgstr "Samlingsarkiv"
+
+#: includes/class-post-types.php:22
+msgid "Collection Attributes"
+msgstr "Samlingsattribut"
+
+#: includes/class-post-types.php:23
+msgid "Parent Collection:"
+msgstr "Föräldersamling:"
+
+#: includes/class-post-types.php:25
+msgid "Add New Collection"
+msgstr "Lägg till ny samling"
+
+#: includes/class-post-types.php:26
+msgid "Add Collection"
+msgstr "Lägg till samling"
+
+#: includes/class-post-types.php:27
+msgid "New Collection"
+msgstr "Ny samling"
+
+#: includes/class-post-types.php:28
+msgid "Edit Collection"
+msgstr "Redigera samling"
+
+#: includes/class-post-types.php:29
+msgid "Update Collection"
+msgstr "Uppdatera samling"
+
+#: includes/class-post-types.php:30
+msgid "View Collection"
+msgstr "Visa samling"
+
+#: includes/class-post-types.php:31
+msgid "View Collections"
+msgstr "Visa samlingar"
+
+#: includes/class-post-types.php:32
+msgid "Search Collections"
+msgstr "Sök samlingar"
+
+#: includes/class-post-types.php:33
+msgid "Not found"
+msgstr "Hittades inte"
+
+#: includes/class-post-types.php:34
+msgid "Not found in Trash"
+msgstr "Hittades inte i papperskorgen"
+
+#: includes/class-post-types.php:35
+msgid "Featured Image"
+msgstr "Utvald bild"
+
+#: includes/class-post-types.php:36
+msgid "Set featured image"
+msgstr "Ange utvald bild"
+
+#: includes/class-post-types.php:37
+msgid "Remove featured image"
+msgstr "Ta bort utvald bild"
+
+#: includes/class-post-types.php:38
+msgid "Use as featured image"
+msgstr "Använd som utvald bild"
+
+#: includes/class-post-types.php:39
+msgid "Insert into item"
+msgstr "Infoga i objektet"
+
+#: includes/class-post-types.php:40
+msgid "Uploaded to this item"
+msgstr "Uppladdat till detta objekt"
+
+#: includes/class-post-types.php:41
+msgid "Collections list"
+msgstr "Samlingslista"
+
+#: includes/class-post-types.php:42
+msgid "Collections list navigation"
+msgstr "Navigering över samlingslista"
+
+#: includes/class-post-types.php:43
+msgid "Filter items list"
+msgstr "Filtrera objektlista"
+
+#: includes/class-view.php:88 includes/class-view.php:183
+#: includes/class-view.php:495
+msgid "Next Reviews"
+msgstr "Fler recensioner"
+
+#: includes/class-view.php:438
+msgid "%s Rating"
+msgstr "%s Betyg"
+
+#: includes/class-view.php:616
+#, php-format
+msgid "Based on %s reviews"
+msgstr "%s recensioner"
+
+#: includes/class-view.php:638
+msgid "See all reviews"
+msgstr "Se alla recensioner"
+
+#: includes/class-view.php:653
+msgid "Write a review"
+msgstr "Skriv en recension"
+
+#: includes/class-view.php:779
+msgid " User"
+msgstr " Användare"
+
+#: includes/class-view.php:895
+msgid "read more"
+msgstr "läs mer"
+
+#: includes/core/class-connect-google.php:22
+#: includes/core/class-connect-yelp.php:22
+msgid ""
+"Unable to call request. Make sure you are accessing this page from the "
+"Wordpress dashboard."
+msgstr ""
+"Det går inte att anropa begäran. Se till att du har åtkomst till den här "
+"sidan från WordPress Dashboard."
+
+#: includes/license/EDD_SL_Plugin_Updater.php:201
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+"En ny version av %1$s är tillgänglig. %2$sVisa detaljer för version %3$s"
+"%4$s."
+
+#: includes/license/EDD_SL_Plugin_Updater.php:209
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"En ny version av %1$s är tillgänglig. %2$sVisa detaljer för version %3$s"
+"%4$s eller %5$suppdatera nu%6$s."
+
+#: includes/license/EDD_SL_Plugin_Updater.php:369
+msgid "You do not have permission to install plugin updates"
+msgstr "Du har inte behörighet att uppdatera tillägg"
+
+#: includes/license/EDD_SL_Plugin_Updater.php:369
+msgid "Error"
+msgstr "Fel"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://richplugins.com/"
+msgstr "https://richplugins.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Business Reviews Bundle is a WordPress plugin to merges and displays any "
+"reviews from Google, Facebook and Yelp in the single feed."
+msgstr ""
+"Business Reviews Bundle är en WordPress plugin som slår ihop och visar alla "
+"recensioner från Google, Facebook och Yelp i en enda feed."
+
+#. Author of the plugin/theme
+msgid "RichPlugins <support@richplugins.com>"
+msgstr "RichPlugins <support@richplugins.com>"
